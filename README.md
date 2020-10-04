@@ -16,4 +16,7 @@ From the graph below, it is possible to visualize the performance of the strasse
 
 ![alt text](https://github.com/yandiaszup/Strassen-Matrix-Multiplication/blob/main/StrassenBenchmark.png)
 
+
 The raw data of an experimentation simulation run is contained here: [Results](https://github.com/yandiaszup/Strassen-Matrix-Multiplication/blob/main/Results.txt)
+
+There you can see the times of each of the 30 executions, the mean and the standard deviation for each matrix size (from 2 to 1024) and each algorithm(Strassen and Naive Multiplication).
