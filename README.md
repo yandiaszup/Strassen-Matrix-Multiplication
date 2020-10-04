@@ -12,7 +12,8 @@ For experimenting with the efficiency of the Strassen algorithm we consider gene
 - Results
 
 After performing the experimentation tests, the results were as expected, the Strassen algorithm has a noticeably better performance than the classic algorithm for larger matrices.
-From the graph below, it is possible to visualize the performance of the strassen algorithm compared to the usual implementation of matrix multiplication demonstrated by the red line.
-The raw data of an experimentation simulation run is contained here: [Results](https://github.com/yandiaszup/Strassen-Matrix-Multiplication/blob/main/Results.txt)
+From the graph below, it is possible to visualize the performance of the strassen algorithm compared to the usual implementation of matrix multiplication demonstrated by the red line. Furthermore, it is noticeable that the performance gap between the two algorithms tends to increase, that is, for larger matrices the performance of the strassen algorithm will be much better than the usual implementation.
 
 ![alt text](https://github.com/yandiaszup/Strassen-Matrix-Multiplication/blob/main/StrassenBenchmark.png)
+
+The raw data of an experimentation simulation run is contained here: [Results](https://github.com/yandiaszup/Strassen-Matrix-Multiplication/blob/main/Results.txt)
